@@ -1,5 +1,6 @@
 # Regression_Algorithms_4
-There are 4 regression algorithms implementations :Perceptron Learning,Pocket algorithm ,Logistic Regression ,Linear Regression
+There are 4 regression algorithms implementations :
+Perceptron Learning,Pocket algorithm ,Logistic Regression ,Linear Regression
 
 Implement the Perceptron Learning algorithm   :  Perceptron Learning.py
 Run it on the data file "classification.txt" ignoring the 5th column.
